@@ -1,0 +1,6 @@
+{
+  "name": "Expiry",
+  "description": "Privacy-first document expiration manager for passports, IDs, licenses, warranties, and insurance with on-device security and actionable renewal alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
